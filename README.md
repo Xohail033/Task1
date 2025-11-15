@@ -1,1 +1,16 @@
-# Task1
+Data Cleaning Task 1 - Mall Customers Dataset
+Objective
+To clean and preprocess the Mall Customers dataset using Excel.
+Steps Performed
+- Checked for missing values (none found).
+- Removed duplicate rows.
+- Standardized gender column values.
+- Renamed columns to lowercase with underscores.
+- Verified numeric data types and saved clean file.
+
+Deliverables
+- `mall_customers_cleaned.xlsx` (Cleaned dataset)
+- Summary of data cleaning process (this file)
+
+Tools Used
+- Microsoft Excel
