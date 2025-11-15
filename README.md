@@ -9,7 +9,7 @@ Steps Performed
 - Verified numeric data types and saved clean file.
 
 Deliverables
-- `mall_customers_cleaned.xlsx` (Cleaned dataset)
+- `cleaned_mall_customer.xlsx` (Cleaned dataset)
 - Summary of data cleaning process (this file)
 
 Tools Used
